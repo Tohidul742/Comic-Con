@@ -142,6 +142,7 @@ Tracks:
 
 ---
 
+
 ##  Future Improvements
 
 - EV charging management  
@@ -150,4 +151,6 @@ Tracks:
 - License plate recognition  
 
 ---
+## ER Diagram
 
+![ER Diagram](./comic-con.png)
